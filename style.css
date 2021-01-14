@@ -1,0 +1,49 @@
+.images .logo{
+    width: 300px;
+    height: 50px;
+    margin: 20px;
+    
+}
+.nav-link{
+    color: black;
+    
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+.half-width h1{
+    margin-top: 150px;
+    font-weight: 700;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(81, 168, 81);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.buy-now{
+    font-size: 25px;
+    font-weight: 700; 
+}
+.btn{
+    float: right;
+    background-color:rgb(81, 168, 81);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
